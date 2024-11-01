@@ -1,0 +1,12 @@
+/* Navbar.css */
+
+nav {
+  background-color: #2980b9; /* Navbar background color */
+  padding: 10px;             /* Spacing inside the navbar */
+}
+
+nav h1 {
+  color: white;              /* Text color for the heading */
+  text-align: center;        /* Center the heading text */
+}
+
